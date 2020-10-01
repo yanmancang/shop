@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="Unnamed" pattern="file[app]:src/main/java/com/mryan/myapplication/MainActivity.java||file[app]:src/main/java/*" />
+</component>
